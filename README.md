@@ -33,6 +33,4 @@ Ce fichier dit à Git d'ignorer les fichiers temporaires locaux de R :
 Audit_XLSForm_Report_R.xlsx
 ```
 
-## La version Test est disponible ici 
-
 ## [Tester l'application Shiny en ligne](https://ssandroy.shinyapps.io/Xlsformtesting/)
