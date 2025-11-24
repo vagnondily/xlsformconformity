@@ -1,6 +1,7 @@
 # Audit Interactif d'XLSForm (Shiny R)
 
-Ce projet fournit une application Shiny interactive développée en R pour auditer automatiquement les erreurs courantes dans les fichiers XLSForm (utilisés par ODK, KoboToolbox, etc.).
+Ce projet fournit une application Shiny interactive développée (https://www.shinyapps.io/) en R pour auditer automatiquement les erreurs courantes dans les fichiers XLSForm (utilisés par ODK, KoboToolbox, etc.).
+
 
 ## Prérequis et Utilisation
 
